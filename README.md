@@ -9,11 +9,6 @@ No WiFi, no cloud, no accounts. Everything runs locally over the USB cable that
 already powers the board.
 
 ## See it in action
-
-<p align="center">
-  <img src="example/demo.gif" alt="Nyan Cat desk companion demo" width="260" />
-</p>
-
 <p align="center">
   <img src="example/example-1.jpeg" alt="Desk Cat on the ideaspark ESP32 - timer, clock and Nyan cat" width="48%" />
   &nbsp;
